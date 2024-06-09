@@ -1,0 +1,13 @@
+.container {
+  min-height: 100vh;
+  background: #eee;
+}
+
+.posts {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+}
+
+.post {
+  background: #fff;
+}

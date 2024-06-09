@@ -1,0 +1,6 @@
+.btn {
+    display: flex;
+    padding: 16px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
